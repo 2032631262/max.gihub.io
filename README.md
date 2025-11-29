@@ -1,2 +1,3 @@
-# max.gihub.io
-浴火重生
+<theme>: jekyll-theme-minimal
+<title>: Octocat's homepage
+<description></description>: Bookmark this to keep an eye on my project updates!
